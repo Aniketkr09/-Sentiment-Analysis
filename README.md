@@ -107,7 +107,7 @@ Sentiment-Analysis-Web-App/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Aniketkr09/Sentiment-Analysis-Web-App.git
+git clone https://github.com/Aniketkr09/-Sentiment-Analysis.git
 ```
 
 ### 2. Navigate to the project folder
